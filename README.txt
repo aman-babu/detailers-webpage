@@ -35,3 +35,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+Live site : https://aman-babu.github.io/detailers-webpage/
